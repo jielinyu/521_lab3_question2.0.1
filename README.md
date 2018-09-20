@@ -1,2 +1,2 @@
 # 521_lab3_question2.0.1
-link: https://jielinyu.github.io/521_lab3_question2.0.1/
+[html link](https://github.com/jielinyu/521_lab3_question2.0.1/blob/master/521lab3_question2.0.1.html)
